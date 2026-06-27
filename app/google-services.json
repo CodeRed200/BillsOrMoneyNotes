@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "373389862628",
+    "firebase_url": "https://flores-a946e-default-rtdb.firebaseio.com",
+    "project_id": "flores-a946e",
+    "storage_bucket": "flores-a946e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373389862628:android:8b9a545213b2a3773d2ef1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjcMPkBfDwYaw2auE7TNiA7TE0sDnT2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
